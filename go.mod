@@ -1,3 +1,3 @@
-module github.com/yezid00/romanserver.git
+module github.com/yezid00/romanserver
 
 go 1.20
